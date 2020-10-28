@@ -1,4 +1,5 @@
 var text = [{
+  "PEMIN":[{
     "TOKOA": [{
         "NAMA": "OLSHOPBABY",
         "OWNER": "JOKO",
@@ -17,6 +18,7 @@ var text = [{
             }]
         }]
     }]
+  }]
 
 $.ajax({
   url:"index.php",
