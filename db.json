@@ -1,0 +1,20 @@
+{
+  "TOKOA":{
+    "NAMA":"OLSHOPBABY",
+    "OWNER":"JOKO",
+    "PRODUK":{
+      "DIAPERS":{
+        "STOK":"3",
+        "HARGA":"30000"
+      },
+      "SUSU":{
+        "STOK":"5",
+        "HARGA":"70000"
+      },
+      "BAJU_BAYI":{
+        "STOK":"1",
+        "HARGA":"8000"
+      }
+    }
+  }
+}
