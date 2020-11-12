@@ -1,20 +1,14 @@
 {
-  "TOKOA":{
-    "NAMA":"OLSHOPBABY",
-    "OWNER":"JOKO",
-    "PRODUK":{
-      "DIAPERS":{
-        "STOK":"3",
-        "HARGA":"30000"
-      },
-      "SUSU":{
-        "STOK":"5",
-        "HARGA":"70000"
-      },
-      "BAJU_BAYI":{
-        "STOK":"1",
-        "HARGA":"8000"
-      }
-    }
-  }
+    "PUSKESMAS": [{
+        "name": "Alvan",
+        "date_born": 26-07-1999,
+        "address": "Jln dunia",
+        "gender": "male",
+        "kondisi": [{
+                "tekanan_darah": 5,
+                "suhu": 37
+                }],
+        "sakit": "Flu"
+        }]
+    }]
 }
