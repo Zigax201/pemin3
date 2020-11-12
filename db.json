@@ -1,13 +1,13 @@
 {
-    "PUSKESMAS": [{
+    "PUSKESMAS": {
         "name": "Alvan",
         "date_born": 26-07-1999,
         "address": "Jln dunia",
         "gender": "male",
-        "kondisi": [{
+        "kondisi": {
                 "tekanan_darah": 5,
                 "suhu": 37
-                }],
+                },
         "sakit": "Flu"
-        }]
+        }
 }
